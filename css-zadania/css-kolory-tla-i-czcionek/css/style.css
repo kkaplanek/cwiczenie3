@@ -1,0 +1,43 @@
+body {
+    background-color: plum;
+}
+
+#main-title {
+    background-color: goldenrod;
+}
+
+#p-one {
+    background-color: blueviolet;
+}
+
+#title {
+    background-color: lightcoral;
+}
+
+#p-two {
+    background-color: papayawhip;
+}
+
+#lista {
+    background-color: royalblue;
+}
+
+.one {
+    color: white;
+}
+
+.two {
+    color: plum;
+}
+
+.three {
+    color: paleturquoise;
+}
+
+.four {
+    color: rgb(75, 218, 137);
+}
+
+.five {
+    color: rgb(170, 121, 215);
+}
