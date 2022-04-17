@@ -1,0 +1,21 @@
+body {
+    background-color: #faebd6;
+}
+
+h1 {
+    color: #ff0000;
+}
+
+#first {
+    color: #a42423;
+    font-size: 1.8em;
+}
+
+#second {
+    color: #00008f;
+    font-size: 1.8em;
+}
+
+p {
+    margin-top: 60px;
+}
