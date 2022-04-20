@@ -1,0 +1,12 @@
+div {
+    width: 300px;
+    height: 200px;
+    border-left: 4px coral solid;
+    border-bottom: 4px blue solid;
+    border-top: 4px gold solid;
+    border-right: 4px green solid;
+}
+
+h1 {
+    text-align: center;
+}
