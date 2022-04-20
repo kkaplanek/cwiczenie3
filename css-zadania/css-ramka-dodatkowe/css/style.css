@@ -1,0 +1,8 @@
+div {
+    height: 400px;
+    width: 400px;
+    background-color: violet;
+    border-color: blue;
+    border-left: 2px solid;
+    border-radius: 30px;
+}
