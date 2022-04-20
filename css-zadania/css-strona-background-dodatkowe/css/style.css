@@ -1,0 +1,14 @@
+header {
+    text-align: center;
+    background-image: url(triangles.png);
+    background-size: cover;
+}
+
+#about {
+    text-align: center;
+}
+
+section img {
+    object-fit: contain;
+    max-width: 200px;
+}
