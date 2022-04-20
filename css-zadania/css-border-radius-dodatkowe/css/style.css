@@ -1,0 +1,14 @@
+div {
+    width: 300px;
+    height: 300px;
+}
+
+#one {
+    background-color: orange;
+    border-radius: 50%;
+}
+
+#two {
+    background-color: olive;
+    border-top-right-radius: 20px;
+}
