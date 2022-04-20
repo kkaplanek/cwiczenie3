@@ -1,0 +1,7 @@
+div {
+    height: 400px;
+    width: 400px;
+    background-image: url('bunny.jpg');
+    background-size: 50%;
+    background-repeat: no-repeat;
+}
