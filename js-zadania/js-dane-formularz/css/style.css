@@ -1,0 +1,22 @@
+body {
+    background-color: rgb(231, 206, 255);
+    text-align: center;
+    padding-top: 80px;
+}
+
+#elementy {
+    height: 350px;
+    width: 350px;
+    background-color: rgb(166, 166, 166);
+    text-align: center;
+    padding-top: 20px;
+    display: inline-block;
+    border: blueviolet dashed;
+    border-radius: 25%;
+}
+
+form, p {
+    color: rgb(238, 221, 254);
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
