@@ -1,0 +1,43 @@
+body {
+    
+    background-image: url(triangles.png);
+    background-size: cover;
+}
+
+h1 {
+    color: black;
+    text-align: center;
+    font-family: Verdana, sans-serif;
+    background-size: cover;
+    border-color: black solid;
+}
+
+#tekst {
+    background-color: rgb(231, 194, 231);
+    color: blueviolet;
+    text-align: center;
+    font-family: Verdana, sans-serif;
+    font-style: italic;
+}
+
+.container {
+    height: 100px;
+    position: relative;
+    align-items: center;
+}
+
+#dodaj {
+    position: absolute;
+    top: 20%;
+    left: 46%;
+    background-color: black;
+    color: lightseagreen;
+}
+
+#usun {
+    position: absolute;
+    top: 20%;
+    left: 50%;
+    background-color: black;
+    color: lightseagreen;
+}
