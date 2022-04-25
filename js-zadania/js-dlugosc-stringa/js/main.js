@@ -4,12 +4,14 @@ let text2 = 'Jestem świetnym programistą';
 
 function longer (str1, str2) {
     if (str1.length > str2.length) {
-        console.log(str1);
+        return str1;
      } else if (str2.length > str1.length) {
-         console.log(str2);
+        return str2;
      }
 }
 
-longer(text1, text2);
+let wynik = longer(text1, text2);
+
+console.log(wynik);
 
  
