@@ -1,5 +1,8 @@
-document.querySelector('button').onclick = function zapytanie (liczba) {
-    let number = prompt("Wpisz liczbę", "4");
-    return console.log(number);
+let num = prompt("Wpisz liczbę", "0");
+
+function zapytanie (par) {
+    /* let num = prompt("Wpisz liczbę", "0"); */
+    console.log(par);
     }
 
+zapytanie (num);
