@@ -1,8 +1,11 @@
-let num1 = 2;
-let num2 = 5;
+let jeden = 2;
+let dwa = 5;
 
 function greater (num1, num2) {
-    Math.max(num1, num2);
+    let wynik = Math.max(num1, num2);
+    return wynik;
 }
 
-console.log( Math.max(num1, num2) );
+let dzialanie = greater(2, 5);
+
+console.log(dzialanie);
