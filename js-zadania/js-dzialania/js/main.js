@@ -15,10 +15,14 @@ function dzialania (num1, num2) {
     } else {
         console.log('Wynik jest nieprawidłowy');
     }
-    let multiply = num1 * num1;
+    let multiply = num1 * num2;
     if (multiply > 0) { 
     console.log (three, multiply);
     } else {
         console.log('Wynik jest nieprawidłowy');
     }
 }
+
+let wynik = dzialania(5, 30);
+
+console.log (wynik);
