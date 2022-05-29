@@ -1,0 +1,43 @@
+section {
+    padding-top: 60px;
+    padding-bottom: 60px;
+}
+
+.showcase-img {
+    background-size: cover;
+    background-position: center;
+}
+
+.showcase-text {
+    padding: 50px;
+}
+
+#showcase {
+    padding-top: 0;
+    padding-bottom: 0;
+}
+
+.team-item {
+    max-width: 200px;
+}
+
+section.form {
+    background-image: url("slider-1.jpg");
+    background-size: cover;
+    background-position: center;
+}
+
+@media (max-width: 768px) {
+
+    .services-item, .team-item {
+        margin-bottom: 50px;
+    }
+
+    .services-item:last-child, .team-item-last {
+        margin-bottom: 0;
+    }
+
+    .showcase-img {
+        height: 300px;
+    }
+}
